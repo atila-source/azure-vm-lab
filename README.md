@@ -38,7 +38,7 @@ Este repositório documenta minha experiência prática no laboratório da DIO, 
 No PowerShell (Windows), usei o seguinte comando:
 
 ```bash
-ssh Atila-2025@<IP_PÚBLICO_DA_VM>
+ssh Atila-2025@<IP_PÚ20.226.172.164>
 
 Ao conectar, digitei a senha cadastrada
 
